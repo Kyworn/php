@@ -1,0 +1,10 @@
+body {
+  max-width: 50em;
+  margin: 0 auto;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+body a {
+  text-decoration: none;
+  color: #26a69a;
+}
