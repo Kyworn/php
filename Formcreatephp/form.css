@@ -1,0 +1,28 @@
+body {
+  margin: 0 auto;
+}
+
+.titre {
+    text-align: center;
+    font-size: 3em;
+}
+
+#form {
+    max-width: 75em;
+    margin-left: 35%;
+}
+
+#buttonConIns {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+
+#Redirect {
+    max-width: 50em;
+    text-align: center;
+}
+#all {
+  margin-top: 8em;
+  margin-bottom: 8em;
+}
